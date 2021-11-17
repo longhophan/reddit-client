@@ -19,4 +19,4 @@
 4. Hướng dẫn truy cập
 ---
 **Truy cập vào địa chỉ sau:*
-https://flamboyant-hugle-3ddbf7.netlify.app
+https://reddit-clientlh.netlify.app/
